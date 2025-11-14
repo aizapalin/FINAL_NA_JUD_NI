@@ -1,3 +1,5 @@
+// diri mag run sig kapa
+
 import java.util.Random;
 import java.util.Scanner;
 
